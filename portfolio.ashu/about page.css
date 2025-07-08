@@ -1,0 +1,42 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+    
+    background-image:url("homebackground.png") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center
+}
+header {
+    text align: center;
+    padding: 30px 0;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    text-align: center;
+    font-family: system-ui;
+    float:right;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+h1
+{color:aliceblue;
+font-size: 50px;
+text-align: center;
+font-family: "Gill Sans", sans-serif;
+ }
+ p{
+  color:bisque;
+  font-size: 29px;
+  text-align: center;
+  font_family: "gills sans", sans-serif;
+ }
+ 
